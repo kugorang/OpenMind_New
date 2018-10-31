@@ -1,0 +1,10 @@
+{
+    "name": "MainAD",
+    "references": [
+        "CommonAD"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

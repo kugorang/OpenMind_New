@@ -1,0 +1,10 @@
+{
+    "name": "ResultAD",
+    "references": [
+        "CommonAD"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
